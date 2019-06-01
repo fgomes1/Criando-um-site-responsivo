@@ -1,0 +1,21 @@
+{
+  "name": "html",
+  "homepage": "https://github.com/fgomes1/Criando-um-site-responsivo",
+  "authors": [
+    "Franciney Gomes <fsgs1997@hotmail.com>"
+  ],
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^4.3.1"
+  }
+}
